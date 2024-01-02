@@ -33,6 +33,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
+/*
 class SectionItem {
   final int index;
   final String title;
@@ -40,6 +41,7 @@ class SectionItem {
 
   SectionItem(this.index, this.title, this.widget);
 }
+*/
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key});
